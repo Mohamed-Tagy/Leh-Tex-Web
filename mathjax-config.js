@@ -1,0 +1,1 @@
+window.MathJax={loader:{load:[]},tex:{packages:['base','ams','boldsymbol','color','mhchem','noerrors','noundefined']},svg:{fontCache:'none'},options:{enableMenu:false},startup:{typeset:false,ready:function(){MathJax.startup.defaultReady();MathJax.startup.promise.then(function(){window.__folioMJReady=true;if(window.__folioMathReady)window.__folioMathReady();});}}};
