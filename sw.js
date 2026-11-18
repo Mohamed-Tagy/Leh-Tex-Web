@@ -2,9 +2,9 @@
 // It keeps the app's own files for offline use and nothing else: no documents (they stay in IndexedDB), no requests
 // to other origins, no importScripts, no push, sync or analytics.
 'use strict';
-const CACHE = "lehtex-e28319c6c9ee6fcd";
+const CACHE = "lehtex-3af95b7e823a7c2a";
 const FILES = {
- "folio.js": "72b69859d08f25919f7c7555706eb9978749d50cdd90e4c0024473006a7cd269",
+ "folio.js": "c437b67ecf6289cec83a25949c339ce73c3b5f0e4e29ea732665641200c36edf",
  "fonts/alexandria.woff2": "70db8c344ab7787d0a619d1b3c621081d14f62467399921b0090b8a0465bac22",
  "fonts/amiri-bold.woff2": "ecd48d2fc8d41d5005245cce146c5cf150b65ed9508f84f1c90af5410119d95a",
  "fonts/amiri-regular.woff2": "793c2e78d60fbb3bf6d93bdbf784f646c8bb59e9ef16ce5b03a3db96de9dec2b",
@@ -25,11 +25,11 @@ const FILES = {
  "fonts/stix-two-text-regular.woff2": "c22fd68515252a331914d1ee5e1eafa949f12a603cbb04d2c207cb6a206e89ec",
  "icon-192.png": "189d5745cf8c56b4e750ca70c0793dca50101e55784a675e9bc9997d5a960d83",
  "icon-512.png": "fe45b6048d8c2e86ef03a4d85ae1df35bfd231e6c06a3559b87056f082b75733",
- "index.html": "a1d09bc87dd146fef7770beb5c512f8558cf71b3142d4c418b909ef45e07c2b6",
+ "index.html": "ec6302275dd52c3c2ac30f28fafbefd72772de65021b0407c3b06721808d86de",
  "manifest.webmanifest": "d399c2c47a937d30ecd3d79e5143d18d5e4d8354e1fac3551ca2de1794aad874",
  "mathjax-config.js": "d226b6a36f9161f1c596f2483b3601969dec219bb6c67021beee463225639eca",
  "pwa.js": "1016eda229e0f1733ca8dd6a3208d49796fdd6a8bbcb0a652e4e1e0533a7d06e",
- "THIRD-PARTY-NOTICES.txt": "e190bb5caad8de4622f955a5f097d1a4df8e100ea88edac23bdf5d7df5555cbf",
+ "THIRD-PARTY-NOTICES.txt": "f600154234515bb29b63aa050d222e2f216f7a6a8c2d213446beb22c63ae34f7",
  "vendor/jszip.min.js": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e",
  "vendor/tex-svg-full.js": "a4354ff94fd868aea0cc6eaaa79a57fda0588646fc46ee3700a349ee0a11cbe6"
 };

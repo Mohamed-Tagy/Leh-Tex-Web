@@ -1,12 +1,12 @@
 {
-  "version": "1.1.0-beta.3",
-  "notes": "What's new in Leh? Tex 1.1.0-beta.3\n\n- More testers: this version welcomes the next group of invited testers. Nothing changes in how you use Leh? Tex.\n- This is the first update delivered inside the app. If you have 1.1.0-beta.2, Check for updates installs it for you; please tell us if anything about the update looked wrong or confusing.\n\nIf you have 1.1.0-beta.1, install this version by hand once. After that, new versions arrive through Check for updates.",
-  "pub_date": "2026-11-17T14:07:54Z",
+  "version": "1.1.0-beta.4",
+  "notes": "What's new in Leh? Tex 1.1.0-beta.4\n\n- Home is now the start screen. The Home button and the Leh? Tex logo save your document, close it and take you to Home, where you choose what to do next. To go back to a document, click it in the list.\n- Your work comes first on Home: \"Pick up where you left off\" is right under the greeting, then your own templates, then the built-in ones.\n- A download page: https://mohamed-tagy.github.io/Leh-Tex-Web/download/ always has the newest version.\n- The web app is up to date again: https://mohamed-tagy.github.io/Leh-Tex-Web/\n\nIf you have 1.1.0-beta.1, install this version by hand once. After that, new versions arrive through Check for updates.",
+  "pub_date": "2026-11-18T22:55:07Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://mohamed-tagy.github.io/Leh-Tex-Web/beta/1.1.0-beta.3/Leh-Tex_1.1.0-beta.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOWppUm9YaTAzUHBNYW1tR1ZzazZjR2VjVjc0VXhUQWdncWFRZmNNb01mb085a1o5bmRUWnNSWHRobkxvMjhxV0hnQ2g1SWtLbFVFQnAyUjNWZCtEYVZ1U3hvRGRwS1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTI0NDc0CWZpbGU6TGVoLVRleF8xLjEuMC1iZXRhLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wLWJldGEuMwovK3A3YTNtdHRDcGdrNWRlc0VlS09ZSForQUEzVGhrN3lJOWxGcTJNRlJML256YUY3TDdpUUdrOFBJSi83ekhnZEpzbi80Ym1pL3lQc0dVYzVOMkhBQT09Cg==",
-      "size": 7731502
+      "url": "https://mohamed-tagy.github.io/Leh-Tex-Web/beta/1.1.0-beta.4/Leh-Tex_1.1.0-beta.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOWppUm9YaTAzUG1vb1JWN0pYRHUrdTFreVZLek5WcjV3TC9hTnYzYmQyYjVHaE1uT2s0ejVlMEdKeGJLSVUrc3BCeVV1NmVWV2JMYzhCTUlURW5KNkNCTDhKS0R5OHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQyNTA3CWZpbGU6TGVoLVRleF8xLjEuMC1iZXRhLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wLWJldGEuNAowMHVjditZbU1GODkxN0pqNXpIdVk1NTBYWjNsVWllNGVGSzVLaDJpSVNlZnpNeng3UEZpZW5XN2V5TkczWFFqTUJha2U3b2NuOTZzTlVYRkxNVnBDZz09Cg==",
+      "size": 7731168
     }
   }
 }
